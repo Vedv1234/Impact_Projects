@@ -1,0 +1,68 @@
+<!-- 
+Author: Ved Vyas
+Functionality of code: These are my HTML templates for the Women's Safety project. I've created
+these templates to provide a clean, accessible interface for women to access safety resources.
+The templates use inheritance to maintain consistency across pages while allowing for custom
+content on each page.
+-->
+
+<!-- This is my base template that all other pages will inherit from -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Making sure my character encoding is set properly -->
+    <meta charset="UTF-8">
+    <!-- This viewport meta tag ensures my site works well on mobile devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Women's Safety Resource Guide</title>
+    <!-- Linking to my custom CSS file -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <!-- Navigation bar for easy access to different sections -->
+    <nav class="navbar">
+        <!-- My project's branding -->
+        <div class="nav-brand">Women's Safety</div>
+        <!-- Navigation links to main sections -->
+        <ul class="nav-links">
+            <li><a href="{{ url_for('home') }}">Home</a></li>
+            <li><a href="{{ url_for('precaution') }}">Precaution</a></li>
+            <li><a href="{{ url_for('prevention') }}">Prevention</a></li>
+        </ul>
+    </nav>
+    
+    <!-- Main content container -->
+    <main class="container">
+        {% block content %}{% endblock %}
+    </main>
+
+    <!-- Footer with emergency contact information -->
+    <footer class="footer">
+        <p>Emergency Contact: Call your local emergency number</p>
+    </footer>
+</body>
+</html>
+
+<!-- My home page template -->
+{% extends "base.html" %}
+{% block content %}
+<!-- Hero section to grab attention and convey the main message -->
+<div class="hero">
+    <h1>Women's Safety Resource Guide</h1>
+    <p>Empowering women with knowledge and resources for their safety</p>
+</div>
+
+<!-- Feature cards highlighting main sections -->
+<section class="features">
+    <div class="feature-card">
+        <h2>Precaution</h2>
+        <p>Learn about available resources and preventive measures</p>
+        <a href="{{ url_for('precaution') }}" class="btn">Learn More</a>
+    </div>
+    <div class="feature-card">
+        <h2>Prevention</h2>
+        <p>Educational resources on respecting dignity and boundaries</p>
+        <a href="{{ url_for('prevention') }}" class="btn">Learn More</a>
+    </div>
+</section>
+{% endblock %}
