@@ -25,7 +25,7 @@ have experienced forced sex, with only 1% seeking professional help based on dat
 
 OPERATIVE CLAUSES
 
-Author: Ved Vyas
+Authors: Ved Vyas , Maarifa International Club
 Functionality of code: This Flask application serves as a comprehensive platform for women's 
 safety resources worldwide. Given the alarming statistics about violence against women, 
 this platform aims to provide easy access to country-specific safety information, emergency 
