@@ -12,6 +12,7 @@ it's not super fancy, but I hope it can help protect the voting process. */
 
 #Operative clause: 
 #HEREBY PROPOSE the following technological solution for ballot box protection:
+"""
 
 # I need this to add delays in my program
 import time
