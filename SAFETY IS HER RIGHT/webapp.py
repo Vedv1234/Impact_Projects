@@ -1,28 +1,4 @@
 """
-PREAMBULATORY CLAUSES
-
-DEEPLY CONCERNED that 94% of sexual violence offenders are men and 95% of survivors do not 
-report assaults to police, making sexual violence the most under-reported crime in Canada, 
-with an estimated 1.8 million Albertans - 45% of Alberta's population having experienced 
-sexual violence in their lifetime ("What Is Sexual Violence." Government of Alberta, 2024);
-
-ALARMED by the fact that in Afghanistan, 64% of women reported feeling "not at all" safe 
-leaving home by themselves compared to 2% of men, with 8% of surveyed women knowing at 
-least one woman or girl who has attempted suicide in the last three years ("Facts and 
-Figures: Ending Violence against Women." UN Women, 2024);
-
-DISTRESSED that in Haiti, 8% of women in camps have resorted to sex work/prostitution to 
-meet their needs, with an additional 20.6% reporting knowledge of at least one person who 
-had done so ("Facts and Figures: Ending Violence against Women." UN Women, 2024);
-
-GRAVELY CONCERNED that globally, 6% of women report experiencing sexual violence from 
-non-partners, with actual numbers likely being significantly higher due to stigma ("Facts 
-and Figures: Ending Violence against Women." UN Women, 2024);
-
-EMPHASIZING that approximately 15 million adolescent girls worldwide, aged 15-19 years, 
-have experienced forced sex, with only 1% seeking professional help based on data from 
-30 countries ("Facts and Figures: Ending Violence against Women." UN Women, 2024);
-
 OPERATIVE CLAUSES
 
 Authors: Ved Vyas , Maarifa International Club
