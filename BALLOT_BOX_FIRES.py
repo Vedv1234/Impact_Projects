@@ -6,16 +6,9 @@ the November 2024 election. I was really upset about it and wanted to do somethi
 help. Even though I'm still learning Python, I figured I could make a basic protection 
 system. My program is pretty simple - it just reads from a fire sensor and if it 
 detects fire, it sends signals to turn on sprinklers, alarms, and cameras. I know 
-it's not super fancy, but I hope it can help protect our voting process. */
+it's not super fancy, but I hope it can help protect the voting process. */
 
-Preambulatory Clauses
-DEEPLY CONCERNED about the targeted attacks on ballot drop boxes in Washington State during the November 2024 election period, specifically the incidents in Vancouver, Washington where multiple ballot drop boxes were deliberately set on fire,
-ALARMED that these attacks represent a direct threat to democratic processes and the fundamental right of citizens to participate in free and fair elections,
-RECOGNIZING that the Vancouver, Washington incident involved calculated attempts to destroy ballots during a critical election period, potentially disenfranchising numerous voters and undermining public confidence in the electoral system,
-NOTING WITH GRAVE CONCERN that these attacks particularly impacted historically underserved communities and areas with higher minority populations, potentially representing a form of voter suppression,
-ACKNOWLEDGING that similar incidents have occurred in other jurisdictions, demonstrating a concerning pattern of attacks on electoral infrastructure,
-EMPHASIZING that the protection of ballot boxes and other electoral infrastructure is crucial for maintaining the integrity of democratic processes,
-"""
+
 
 #Operative clause: 
 #HEREBY PROPOSE the following technological solution for ballot box protection:
