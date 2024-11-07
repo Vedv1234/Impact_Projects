@@ -1,5 +1,5 @@
 """
-Author: Ved Vyas
+Authors: Ved Vyas , Maarifa International Club
 Functionality of code:
 /* I created this program after seeing those terrible ballot box fire incidents during 
 the November 2024 election. I was really upset about it and wanted to do something to 
